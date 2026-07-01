@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://getkrowd-del.github.io/kim-mikolajczyk-lead-dashboard/sitemap.xml
