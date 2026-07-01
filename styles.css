@@ -1,0 +1,13 @@
+/* ===== BASE TYPOGRAPHY ===== */
+    body { font-family: "Montserrat", sans-serif; background: #f5f7fb; }
+    h1, h2, h3, .brand-heading { font-family: "Playfair Display", serif; }
+
+    /* ===== DASHBOARD CHROME ===== */
+    .dashboard-shell { background: linear-gradient(180deg, #1B2A4A 0%, #132038 100%); }
+    .brand-accent { color: #C5A55A; }
+    .brand-border { border-color: rgba(197, 165, 90, 0.35); }
+    .panel { background: rgba(255,255,255,0.96); backdrop-filter: blur(6px); }
+    .table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+    .lead-table { min-width: 1120px; }
+    .sticky-head th { position: sticky; top: 0; z-index: 10; }
+    .status-pill { letter-spacing: 0.02em; }
